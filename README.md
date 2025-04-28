@@ -1,7 +1,7 @@
 # 📦 Target's Sales Data Analysis Project
 
 Welcome to my Target's Sales Data Analysis Project! 🚀  
-In this project, I worked with real-world e-commerce transactional datasets, uploaded them into a MySQL database, and performed **15 powerful SQL queries** — covering Basic, Intermediate, and Advanced levels of analysis.
+In this project, I worked on Target's Brazilian Operations and Customer Data, transactional datasets, uploaded them into a MySQL database, and performed **15 powerful SQL queries** — covering Basic, Intermediate, and Advanced levels of analysis.
 
 ---
 
