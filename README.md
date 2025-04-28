@@ -118,4 +118,4 @@ It reflects practical **Data Analyst**, **Business Intelligence**, and **SQL Dev
 
 ---
 
-> Made with ❤️ by [Musfiqur Rahman Abeg](https://www.linkedin.com/in/musfiqurrabeg/)
+>  Author -> [Musfiqur Rahman Abeg](https://www.linkedin.com/in/musfiqurrabeg/)
